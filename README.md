@@ -1,8 +1,6 @@
 # Detona-Ralph-Jogo-em-JavaScript
 
 
-![JSGame Detona Ralph Logo]([])  
-
 ## Descrição
 
  É um jogo simples inspirado no universo do filme Detona Ralph, desenvolvido com JavaScript, HTML e CSS. O objetivo do jogo é interagir com os inimigos que aparecem aleatoriamente na tela, ganhando pontos ao derrotá-los. A velocidade do jogo é ajustável, tornando-o mais desafiador à medida que o tempo passa!
