@@ -43,10 +43,3 @@ Este jogo foi criado como parte de um projeto educacional na Trilha de CSS da Di
 ## 🎓 Créditos
 
 Este jogo foi desenvolvido como parte de um projeto educacional da **Digital Innovation One**.
-
-
----
-
-Esse **README** proporciona uma visão clara do projeto, além de como executar o jogo, as tecnologias utilizadas, e como contribuir para melhorias. **Não se esqueça de substituir `URL_DO_LOGO_AQUI` pelo link do logo do seu projeto**, caso você tenha um logo armazenado em algum serviço de hospedagem de imagens ou diretamente no repositório.
-
-Se precisar de mais ajustes ou informações adicionais, estou à disposição!
